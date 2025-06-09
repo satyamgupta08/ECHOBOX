@@ -71,8 +71,8 @@ Echobox is a modern and secure anonymous messaging platform built with React, Ty
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Psybah/echobox.git
-cd echobox
+git clone [https://github.com/satyamgupta08/ECHOBOX.git](https://github.com/satyamgupta08/ECHOBOX.git)
+cd ECHOBOX
 ```
 
 2. Install dependencies
@@ -150,4 +150,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Made with ❤️ by [Cybersmith](https://github.com/Psybah/)
+Made by [Satyam Gupta](https://github.com/satyamgupta08)
